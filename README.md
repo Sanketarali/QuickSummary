@@ -13,4 +13,4 @@ Streamlit web app<br>
 The Wikipedia API (Application Programming Interface) allows developers to access and retrieve information from Wikipedia. It can be used to extract data such as articles, categories, translations, etc. It provides a simple and efficient way to access Wikipedia data in a structured format, making it easier to use in various applications
 
 # Screenshot
-![result]()
+![result](https://github.com/Sanketarali/QuickSummary/blob/main/wikipedia/Screenshot%20(2344).png)
